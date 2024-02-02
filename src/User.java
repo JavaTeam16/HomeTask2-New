@@ -22,6 +22,10 @@ class User {
         this.userType = userType;
     }
 
+    public User() {
+
+    }
+
     public String getUsername() {
         return username;
     }
@@ -62,6 +66,7 @@ class UserManager {
     public User authenticateUser(String username, String password) {
         for (User user : users) {
             if (user.getUsername().equals(username) && user.getPassword().equals(password)) {
+                System.out.println("hey");
                 return user;
             }
         }
