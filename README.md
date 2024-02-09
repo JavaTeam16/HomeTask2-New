@@ -2,6 +2,8 @@
 
 ****Must Read****
 
+Youtube Link: https://youtu.be/gTa5ywGCwB0?si=fMchBf1ruf_TZpJJ
+
 Update on Team 16's GitHub Repository and Clarification Regarding Contributor Issue
 
 Dear Professor Galyna Tabunshchyk,
